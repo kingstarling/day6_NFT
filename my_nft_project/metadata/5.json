@@ -1,0 +1,20 @@
+{
+  "name": "Crypto HappyPanda CASH",
+  "description": "This is my first digital crypto nft: happypanda",
+  "image": "ipfs://QmRDAnhcbwMbGPc2Byr8JtJtoVmCj7Kn8PLSnxvFvGLJin",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

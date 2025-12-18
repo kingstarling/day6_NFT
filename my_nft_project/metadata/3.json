@@ -1,0 +1,20 @@
+{
+  "name": "Crypto HappyPanda BNB",
+  "description": "This is my first digital crypto nft: happypanda",
+  "image": "ipfs://QmXSsNg1kdUK3HzB8rs6LgNVs32WPDbvw8am6RKqJArHvf",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
